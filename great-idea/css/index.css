@@ -164,10 +164,15 @@ nav {
   color: grey;
   display: flex;
   align-items: center;
-  align-content: flex-start;
   justify-content: space-around;
   font-size: 12px;
 }
+
+.logo-container {
+	margin-left: 40px;
+	margin-right: 20px;
+}
+
 
 .logo {
 	display: flex;
