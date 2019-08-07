@@ -151,7 +151,7 @@ h5 {
 
 /* Your code starts here! */
 * {
-  /* border: 1px solid black !important; */
+  text-decoration: none;
 }
 
 nav {
