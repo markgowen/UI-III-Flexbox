@@ -281,9 +281,12 @@ h2 {
   padding: 30px;
 }
 
-.digitalDesignBox, .uiUXBox, 
-.digitalMarketingBox, .webDevelopmentBox, 
-.iOSDevelopmentBox, .androidDevelopmentBox {
+.digitalDesignBox,
+.uiUXBox,
+.digitalMarketingBox,
+.webDevelopmentBox,
+.iOSDevelopmentBox,
+.androidDevelopmentBox {
   width: 48%;
   display: flex;
   align-items: flex-start;
@@ -291,7 +294,7 @@ h2 {
   flex-direction: column;
   text-align: left;
   border: 1px solid black;
-  background-color: #F4F3F4;
+  background-color: #f4f3f4;
   padding: 10px;
   margin-bottom: 30px;
 }
@@ -304,6 +307,10 @@ button {
   width: 100%;
   display: flex;
   padding: 30px;
+  margin-right: 20px;
+}
+
+.facts {
   margin-right: 20px;
 }
 
